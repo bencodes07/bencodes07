@@ -1,5 +1,5 @@
-### Hi there 👋, i'm Ben
-##### A designer, developer and music producer
+# Hi there 👋, i'm Ben
+### A designer, developer and music producer
 My name is Ben, a german developer, designer and music producer. I love webdevelopement as well as developing games in C#. Another thing i like to do is UI, UX and design in general. 
 
 Skills: JS / HTML / CSS / C# / Java
