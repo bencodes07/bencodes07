@@ -10,5 +10,3 @@ Skills: JS / HTML / CSS / C# / Java
 [![Bencodes Github Stats](https://github-readme-stats.vercel.app/api?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
