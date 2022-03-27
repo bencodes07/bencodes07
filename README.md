@@ -4,7 +4,7 @@ My name is Ben, a german developer, designer and music producer. I love webdevel
 
 Skills: JS / HTML / CSS / C# / Java
 
-Website: [Website](https://bencodes.netlify.app)
+Website: [Click here](https://bencodes.netlify.app)
 
 - 🌱 I’m currently learning Javascript and React 
 - 🤔 I’m looking for help with React 
