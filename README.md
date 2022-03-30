@@ -4,9 +4,8 @@
 
 My name is Ben, a german developer, designer and music producer. I love webdevelopement as well as developing games in C#. Another thing i like to do is UI, UX and design in general.
 
-Skills: JS / HTML / CSS / C# / Java
-
-Website: [Click here](https://bencodes.netlify.app)
+Website: [Click here][website]
+Youtube: [Click here][youtube]
 
 - 🌱 I’m currently learning Javascript and React
 - 🤔 I’m looking for help with React
@@ -29,15 +28,12 @@ Website: [Click here](https://bencodes.netlify.app)
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com)
 
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]()
-
 <br />
 
 [![Bencodes Github Stats](https://github-readme-stats.vercel.app/api?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 <br />
 
 [website]: https://bencodes.netlify.app
