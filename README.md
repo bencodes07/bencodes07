@@ -37,3 +37,10 @@ My name is Ben, a german developer, designer and music producer. I love webdevel
 
 [website]: https://bencodes.netlify.app
 [youtube]: https://www.youtube.com/channel/UCS5u0FRfNhIagm9xPk4GkRA
+
+<br />
+<br />
+<br />
+
+![snake gif](https://github.com/bencodes07/bencodes07/blob/output/github-contribution-grid-snake.gif)
+
