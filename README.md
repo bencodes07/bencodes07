@@ -42,5 +42,5 @@ My name is Ben, a german developer, designer and music producer. I love webdevel
 <br />
 <br />
 
-[snake svg](https://github.com/bencodes07/bencodes07/blob/output/github-contribution-grid-snake.svg) 
+![snake svg](https://github.com/bencodes07/bencodes07/blob/output/github-contribution-grid-snake.svg) 
 
