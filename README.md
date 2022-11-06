@@ -4,7 +4,7 @@
 
 My name is Ben, a german developer, designer and music producer. I love webdevelopement as well as developing games in C#. Another thing i like to do is UI, UX and design in general.
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Django/Python
 - 🖥️ You can learn more about me [here][website]
 - ▶️ You can subscribe to my youtube channel [here][youtube]
 
