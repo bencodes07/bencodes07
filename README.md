@@ -2,11 +2,9 @@
 
 ### A designer, developer and music producer
 
-My name is Ben, a german developer, designer and music producer. I love webdevelopement as well as developing games in C#. Another thing i like to do is UI, UX and design in general.
+My name is Ben, a german developer and designer. I love webdevelopement as well as UI, UX and design in general.
 
-- 🌱 I’m currently learning Django/Python
 - 🖥️ You can learn more about me [here][website]
-- ▶️ You can subscribe to my youtube channel [here][youtube]
 
 ### Languages and Tools
 
