@@ -1,6 +1,6 @@
-# Hi there 👋, i'm Ben
+# Hi there 👋, I'm Ben
 
-### A designer, developer and music producer
+### A developer and designer
 
 My name is Ben, a german developer and designer. I love webdevelopement as well as UI, UX and design in general.
 
