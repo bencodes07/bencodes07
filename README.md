@@ -4,8 +4,6 @@
 
 My name is Ben, a german developer and designer. I love webdevelopement as well as UI, UX and design in general.
 
-- 🖥️ You can learn more about me [here][website]
-
 ### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
@@ -31,6 +29,3 @@ My name is Ben, a german developer and designer. I love webdevelopement as well 
 [![Bencodes Github Stats](https://github-readme-stats.vercel.app/api?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://bencodes.netlify.app
-[youtube]: https://www.youtube.com/channel/UCS5u0FRfNhIagm9xPk4GkRA
