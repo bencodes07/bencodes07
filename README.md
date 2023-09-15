@@ -67,13 +67,6 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Latest Metrics</h2>
-
-> My Github Metrics
-![Metrics](https://metrics.lecoq.io/bencodes07?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-> 
-<!-- links -->
-
 [TCG Vault]: https://tcg-home.com "TCG Home"
 [issues page]: https://github.com/bencodes07/bencodes07/issues "bencodes07/issues"
 [fishtrack]: https://github.com/bencodes07/fishtrack "bencodes07/fishtrack"
