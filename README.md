@@ -1,27 +1,60 @@
-# Hi there 👋, I'm Ben
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Ben</h1>
+<h3 align="left">I do Software Engineering things</h3>
 
-### A developer and designer
+<p align="left">
+  <a href="https://github.com/bencodes07/bencodes07">
+    <img src="https://komarev.com/ghpvc/?username=bencodes07" alt="page views" />
+  </a>
+  <a href="https://stackoverflow.com/users/13688326">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13688326?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://vscode.dev">
+    <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+  <a href="https://react.dev">
+    <img src="https://img.shields.io/badge/JavaScript%20Framework-React-32CD32?logo=javascript&logoColor=white">
+  </a>
+  <a href="https://apple.com">
+    <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white">
+  </a>
+</p>
 
-My name is Ben, a german developer and designer. I love webdevelopement as well as UI, UX and design in general.
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 
-### Languages and Tools
+- :office: &nbsp;I'm currently working at **[TCG Vault]**
+- :seedling: &nbsp;I’m currently working on **[fishtrack]**
+- :book: &nbsp;Learn more about my projects on my **[website]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me via **[email]**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
+<br>
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
+> Tools, languages, and other things that I like to work with.
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
 
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
+<h2 align="left">Coding Activity</h2>
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
+<!-- links -->
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com)
-
-<br />
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencodes07&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[TCG Vault]: https://tcg-home.com "TCG Home"
+[issues page]: https://github.com/bencodes07/bencodes07/issues "bencodes07/issues"
+[fishtrack]: https://github.com/bencodes07/fishtrack "bencodes07/fishtrack"
+[website]: https://bencodes.vercel.app "My Website"
+[email]: mailto:boeckmannben@gmail.com "boeckmannben<at>gmail.com"
