@@ -5,9 +5,6 @@
   <a href="https://github.com/bencodes07/bencodes07">
     <img src="https://komarev.com/ghpvc/?username=bencodes07" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/13688326">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13688326?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://vscode.dev">
     <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white">
   </a>
@@ -20,10 +17,13 @@
   <a href="https://apple.com">
     <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white">
   </a>
+  <a href="https://stackoverflow.com/users/13688326">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13688326?color=orange&label=reputation&logo=stackoverflow">
+  </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=bencodes07&show_icons=true&theme=transparent" alt="bencodes07" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[TCG Vault]**
@@ -42,15 +42,36 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./react-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./sass-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./mysql-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>MySQL
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+<h2 align="left" id="macropower-tech">Latest Metrics</h2>
 
+> My Github Metrics
+![Metrics](https://metrics.lecoq.io/bencodes07?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+> 
 <!-- links -->
 
 [TCG Vault]: https://tcg-home.com "TCG Home"
