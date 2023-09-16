@@ -67,6 +67,8 @@
   </tr>
 </table>
 
+![Metrics](https://metrics.lecoq.io/bencodes07?template=classic&base.header=0&lines=1&music=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&music=false&music.provider=spotify&music.user=31qx6vtwbfgel6fe5ubr3cufjoii&music.mode=recent&music.limit=2&music.played.at=true&music.time.range=short&music.top.type=tracks&config.timezone=Europe%2FBerlin)
+
 [TCG Vault]: https://tcg-home.com "TCG Home"
 [issues page]: https://github.com/bencodes07/bencodes07/issues "bencodes07/issues"
 [fishtrack]: https://github.com/bencodes07/fishtrack "bencodes07/fishtrack"
