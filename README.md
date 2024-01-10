@@ -14,7 +14,7 @@
   <a href="https://react.dev">
     <img src="https://img.shields.io/badge/JavaScript%20Framework-React-32CD32?logo=javascript&logoColor=white">
   </a>
-  <a href="https://apple.com">
+  <a href="">
     <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/13688326">
