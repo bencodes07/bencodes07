@@ -8,7 +8,7 @@
   <a href="https://vscode.dev">
     <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/bencodes07?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
   <a href="https://react.dev">
