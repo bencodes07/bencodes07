@@ -26,7 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bencodes07&show_icons=true&theme=transparent" alt="bencodes07" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[TCG Vault]**
 - :seedling: &nbsp;I’m currently working on **[fishtrack]**
 - :book: &nbsp;Learn more about my projects on my **[website]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
@@ -69,7 +68,6 @@
 
 ![Metrics](https://metrics.lecoq.io/bencodes07?template=classic&base.header=0&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FBerlin)
 
-[TCG Vault]: https://tcg-home.com "TCG Home"
 [issues page]: https://github.com/bencodes07/bencodes07/issues "bencodes07/issues"
 [fishtrack]: https://github.com/bencodes07/fishtrack "bencodes07/fishtrack"
 [website]: https://bencodes.vercel.app "My Website"
