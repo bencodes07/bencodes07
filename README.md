@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<a href="#-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=bencodes07&show_icons=true&theme=transparent" alt="bencodes07" align="right" />
-</a>
-
 - :seedling: &nbsp;I’m currently working on **[fishtrack]**
 - :book: &nbsp;Learn more about my projects on my **[website]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
