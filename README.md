@@ -22,9 +22,10 @@
   </a>
 </p>
 
-- :seedling: &nbsp;I’m currently working on **[fishtrack]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me via **[email]**
+
+Want to learn more? Check out my [website]
 
 <br>
 
@@ -66,6 +67,5 @@
 </picture>
 
 [issues page]: https://github.com/bencodes07/bencodes07/issues "bencodes07/issues"
-[fishtrack]: https://github.com/bencodes07/fishtrackMobile "bencodes07/fishtrackMobile"
-[website]: https://bencodes.vercel.app "My Website"
+[website]: https://bencodes.de "My Website"
 [email]: mailto:boeckmannben@gmail.com "boeckmannben<at>gmail.com"
