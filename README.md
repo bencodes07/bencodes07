@@ -48,13 +48,13 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./sass-original.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="./tailwind-original.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./mysql-original.svg" width="48" height="48" alt="GraphQL" />
+        <img src="./graphql-original.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
