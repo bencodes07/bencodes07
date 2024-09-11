@@ -5,27 +5,26 @@
   <a href="https://github.com/bencodes07/bencodes07">
     <img src="https://komarev.com/ghpvc/?username=bencodes07" alt="page views" />
   </a>
-  <a href="https://vscode.dev">
-    <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white">
+  <a href="https://github.com/bencodes07">
+    <img src="https://img.shields.io/badge/Editor-NeoVim-blue?logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://github.com/bencodes07?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
-  <a href="https://react.dev">
-    <img src="https://img.shields.io/badge/JavaScript%20Framework-React-32CD32?logo=javascript&logoColor=white">
+  <a href="https://nextjs.org">
+    <img src="https://img.shields.io/badge/JavaScript%20Framework-NextJS-blue?logo=javascript&logoColor=white">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/13688326">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13688326?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13688326?color=orange&label=Reputation&logo=stackoverflow">
   </a>
 </p>
 
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me via **[email]**
-
-Want to learn more? Check out my [website]
+- :mag: Want to learn more? Check out my [website]
 
 <br>
 
@@ -36,28 +35,28 @@ Want to learn more? Check out my [website]
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./react-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#">
+        <img src="./nextjs-original.svg" width="48" height="48" alt="NextJS" />
       </a>
-      <br>React
+      <br>NextJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#">
+        <img src="./sass-original.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Sass
+      <br>TailwindCSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./mysql-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#">
+        <img src="./mysql-original.svg" width="48" height="48" alt="GraphQL" />
       </a>
-      <br>MySQL
+      <br>GraphQL
     </td>
   </tr>
 </table>
@@ -68,4 +67,4 @@ Want to learn more? Check out my [website]
 
 [issues page]: https://github.com/bencodes07/bencodes07/issues "bencodes07/issues"
 [website]: https://bencodes.de "My Website"
-[email]: mailto:boeckmannben@gmail.com "boeckmannben<at>gmail.com"
+[email]: mailto:info@bencodes.de "info@bencodes.de"
