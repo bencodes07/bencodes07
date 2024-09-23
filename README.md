@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Editor-NeoVim-blue?logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://github.com/bencodes07?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bencodes07?color=green&logo=github">
   </a>
   <a href="https://nextjs.org">
     <img src="https://img.shields.io/badge/JavaScript%20Framework-NextJS-blue?logo=javascript&logoColor=white">
