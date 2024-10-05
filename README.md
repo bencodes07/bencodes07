@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Ben</h1>
+<h1 align="left" id="bencodes">:wave: Hello there! I'm Ben</h1>
 <h3 align="left">I do Software Engineering things</h3>
 
 <p align="left">
@@ -28,7 +28,7 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="bencodes-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
