@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=bencodes07" alt="page views" />
   </a>
   <a href="https://github.com/bencodes07">
-    <img src="https://img.shields.io/badge/Editor-NeoVim-blue?logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://github.com/bencodes07?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bencodes07?color=green&logo=github">
@@ -16,9 +16,6 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white">
-  </a>
-  <a href="https://stackoverflow.com/users/13688326">
-    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13688326?color=orange&label=Reputation&logo=stackoverflow">
   </a>
 </p>
 
