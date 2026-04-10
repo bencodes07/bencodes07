@@ -1,5 +1,4 @@
 <h1 align="left" id="bencodes">:wave: Hello there! I'm Ben</h1>
-<h3 align="left">I do Software Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/bencodes07/bencodes07">
