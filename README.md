@@ -10,9 +10,6 @@
   <a href="https://github.com/bencodes07?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bencodes07?color=green&logo=github">
   </a>
-  <a href="https://nextjs.org">
-    <img src="https://img.shields.io/badge/JavaScript%20Framework-NextJS-blue?logo=javascript&logoColor=white">
-  </a>
   <a href="">
     <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white">
   </a>
@@ -23,39 +20,6 @@
 - :mag: Want to learn more? Check out my [website]
 
 <br>
-
-<h2 align="left" id="bencodes-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./nextjs-original.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./tailwind-original.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./graphql-original.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-  </tr>
-</table>
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
